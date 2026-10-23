@@ -1,0 +1,13 @@
+# MATLAB / Simulink build and cache files
+slprj/
+sccprj/
+codegen/
+*.slxc
+*.asv
+*.autosave
+*.mexw64
+*.mexa64
+*.mexmaci64
+*.slx.r20*
+*.mdl.r20*
+*.bak
